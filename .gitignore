@@ -3,3 +3,4 @@ anaconda_projects/
 notebooks/.ipynb_checkpoints/
 .DS_Store
 .git/
+Titanic.gsheet
