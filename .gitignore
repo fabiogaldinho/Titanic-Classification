@@ -1,3 +1,4 @@
 anaconda_projects/
 .virtual_documents/
 notebooks/.ipynb_checkpoints/
+.DS_Store
